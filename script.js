@@ -2,7 +2,7 @@
    TRAMA — script.js
    Todo lo que necesitas editar para tu negocio real
    está marcado con  ⚙️ CONFIGURA AQUÍ
-   ============================================ */
+   ============================================ */ 
 
 /* ⚙️ CONFIGURA AQUÍ — número de WhatsApp del negocio (con indicativo, sin + ni espacios) */
 const WHATSAPP_NUMBER = "573000000000";
