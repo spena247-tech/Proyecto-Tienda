@@ -808,7 +808,7 @@ body { font-size: 15px; line-height: 1.5; }
   .product-visual { margin-left: -12px; margin-right: -12px; height: 300px; }
   .product-visual svg { width: 220px; height: 220px; }
   .product-name { font-size: 19px; }
-  .category-tabs { gap: 24px; }
+  .category-tabs { gap: 24px; } 
   .footer-inner { grid-template-columns: 1fr; }
 }
 
